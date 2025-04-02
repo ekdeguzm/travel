@@ -29,4 +29,4 @@ As the sole developer, I designed and integrated all components, improving my **
 
 ### Demo  
 
-Check out a video demonstration of the project here: [Watch on YouTube](https://www.youtube.com/watch?v=aQ1iFGW0pmc)  
+A video demonstration of the [project](https://www.youtube.com/watch?v=aQ1iFGW0pmc)  
